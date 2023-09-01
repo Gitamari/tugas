@@ -1,0 +1,27 @@
+.jumbotron{
+    padding: 2rem 1rem;
+    padding-bottom: 200px;
+    /* background-color: #e2edff; */
+    background-image: url("makan2.jpg");
+    background-repeat: no-repeat;
+}
+
+.hovered-crad{
+    transition: .3s;
+}
+
+.hovered-card:hover{
+    transform: scale(1.1);
+}
+
+.icon-service{
+    width: 90px;
+    height: 90px;
+    border: solid white 2px;
+    border-radius: 50%;
+    color: white;
+}
+
+.content-subscribe{
+    background-color: rgba(0,0,0,0.7);
+}
